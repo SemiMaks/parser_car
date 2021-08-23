@@ -2,8 +2,8 @@
 name: parser_car
 author: Maksim Semizorov
 email: semimaks@gmail.com
-link:
-github:
+link: https://www.youtube.com/channel/UCiL43tUYyuFmQd4tMlnjyGQ
+github: https://github.com/SemiMaks/parser_car.git
 '''
 
 import requests
